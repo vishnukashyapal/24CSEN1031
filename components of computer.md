@@ -1,4 +1,4 @@
-__ input devices__
+__ input devices___
 #keyboard
 #mouse
 #scanner
